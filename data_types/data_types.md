@@ -70,4 +70,4 @@ Every element in an array must be of the same type
 - fixed length
 - coma separated values in square brackets
 
-elements accesible <via array_name>[index]
+elements accesible via array_name[index]
